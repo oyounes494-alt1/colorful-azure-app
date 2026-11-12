@@ -1,0 +1,15 @@
+{
+  "name": "colorful-node24-azure-app",
+  "version": "1.0.0",
+  "description": "Vibrant Node.js 24 LTS web application ready for Azure App Service",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=24.0.0"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
